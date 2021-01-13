@@ -1,0 +1,11 @@
+.RegisterBox__form {
+  margin: auto;
+  max-width: 50%;
+  display: flex;
+  justify-content: space-evenly;
+  /* border: 2px solid black; */
+  margin-top: 10px;
+}
+.RegisterBox {
+  margin-bottom: 20px;
+}

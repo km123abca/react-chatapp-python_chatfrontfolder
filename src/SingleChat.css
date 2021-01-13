@@ -1,0 +1,51 @@
+.SingleChat {
+  /* border: 2px solid black; */
+
+  /* max-width: 80%; */
+
+  margin: auto;
+  margin-top: 20px;
+}
+.SingleChat__msg {
+  min-height: 100px;
+  margin-bottom: 10px;
+  border: 2px solid rgb(71, 71, 67);
+  border-radius: 5px;
+  /* background-image: linear-gradient(
+    to right,
+    rgb(50, 192, 180),
+    rgb(50, 192, 180)
+  ); */
+}
+.SingleChat__topbar {
+  display: flex;
+}
+.SingleChat__bottombar {
+  display: flex;
+  justify-content: space-evenly;
+}
+.SingleChat__fromuser {
+  margin-right: auto;
+}
+.SingleChat__msgtext {
+  margin-bottom: 30px;
+}
+.SingleChat__smalltext {
+  font-weight: bold;
+  font-size: 16px;
+}
+.SingleChat__button {
+  border: none;
+  font-weight: bold;
+  font-size: 16px;
+
+  background-color: rgb(134, 170, 211);
+  padding: none;
+  margin: none;
+}
+.singleChat__odd {
+  background-color: chocolate;
+}
+.singleChat__even {
+  background-color: darkcyan;
+}

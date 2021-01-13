@@ -1,0 +1,18 @@
+.ChatElement {
+  max-width: 90%;
+  margin-left: auto;
+  /* margin-right: none; */
+}
+.ChatElement__input {
+  display: flex;
+  max-width: 70%;
+}
+.ChatElement__inputfield {
+  flex-grow: 1;
+}
+.xx {
+  size: small;
+}
+.ChatElement__hidden {
+  display: none;
+}

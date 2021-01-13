@@ -1,0 +1,7 @@
+.ChatInput {
+  display: flex;
+  max-width: 70%;
+}
+.ChatInput__inputfield {
+  flex-grow: 1;
+}
